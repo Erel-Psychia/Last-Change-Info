@@ -1,5 +1,20 @@
 The Tornado Chicken; V5.2; https://psyra-productions.itch.io/the-tornado-chicken;
 &
-Wheels of Prio; V4.7; https://psyra-productions.itch.io/wheels-of-prio;
+Wheels of Prio; V5.2; https://psyra-productions.itch.io/wheels-of-prio;
+Added the ability to save the game!
+Added a menu in the gameplay settings for viewing car stats.
+Updated the help menu and added some more details, please read it after updating.
+Updated car sizes and lengths.
+Updated the car driving system and made it a bit better.
+Added the ability to toggle car sound enhancements on or off from the gameplay settings menu.
+Updated all cars. There are now 26 types of cars!
+Added car horns for all types of cars!
+Added the ability for automatic cars to use car horns.
+Car engine sounds are even more realistic!
+Maximum difficulty level is now 20.
+Maximum number of laps is now 100.
+The gameplay stats and scores menu now displays the points gained for each achievement.
+The point counting sounds can now speed up as more points are counted.
+Decreased points are now counted.
 &
 Porta-Bop; V2.0; https://psyra-productions.itch.io/porta-bop;
