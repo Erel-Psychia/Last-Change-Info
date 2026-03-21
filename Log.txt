@@ -1,20 +1,18 @@
 The Tornado Chicken; V5.2; https://psyra-productions.itch.io/the-tornado-chicken;
 &
-Wheels of Prio; V5.2; https://psyra-productions.itch.io/wheels-of-prio;
-Added the ability to save the game!
-Added a menu in the gameplay settings for viewing car stats.
-Updated the help menu and added some more details, please read it after updating.
-Updated car sizes and lengths.
-Updated the car driving system and made it a bit better.
-Added the ability to toggle car sound enhancements on or off from the gameplay settings menu.
-Updated all cars. There are now 26 types of cars!
-Added car horns for all types of cars!
-Added the ability for automatic cars to use car horns.
-Car engine sounds are even more realistic!
-Maximum difficulty level is now 20.
-Maximum number of laps is now 100.
-The gameplay stats and scores menu now displays the points gained for each achievement.
-The point counting sounds can now speed up as more points are counted.
-Decreased points are now counted.
+Wheels of Prio; V5.5; https://psyra-productions.itch.io/wheels-of-prio;
+Added music for each race track.
+Added a progress sound that indicates the percentage of your car health. For example, if your maximum car health is 200 and your current health is 100, a progress bar at 50 percent pitch will play every time your car is hit without a shield.
+The health progress sound can now be toggled in gameplay settings.
+Updated the song that plays when you win the race. It is the same song, but with better instruments.
+Different songs will now play, depending if you have won or lost the race.
+Added an option to randomly choose a race track.
+Added coin sounds that play while counting points. At first, the volume of the coin sounds are consistent. Since counting points will speed up the counter, the volume of coin sounds will be more randomized to avoid causing noise.
+Added the ability to distribute points to defense, health and speed. Distributing requires at least 3 points. The remainder is stored for later use.
+The number of points can now be viewed in car stats.
+Added an option to lock the current difficulty, preventing it from increasing when you win a race.
+Fixed some small errors found in the points assignment menu.
+Added a few extra sounds for the speed boost.
+Added sounds that play when difficulty level is increased.
 &
 Porta-Bop; V2.0; https://psyra-productions.itch.io/porta-bop;
