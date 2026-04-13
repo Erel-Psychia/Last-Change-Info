@@ -16,9 +16,13 @@ Added a few extra sounds for the speed boost.
 Automatic cars will now slow down when the race is over. Additionally, when watch after victory is turned off, the player's car will become automatic when the race is over.
 Added sounds that play when difficulty level is increased.
 &
-Porta-Bop; V2.1; https://psyra-productions.itch.io/porta-bop;
-Notice: Old save files will not work in this version, do to some additional options in the gameplay settings.
-The tricky rhythm mode is made a bit more difficult.
-Added 5 more beats! Additionally, you can now choose your favorite beat in the gameplay settings. It will have a 50 percent chance of being chosen when set to something other than random.
-Added a passable mode option in the gameplay settings menu. When turned on, the game will occasionally give a pass it command. This blocks all command for one bar, allowing the game to be played by someone else when the next series of commands are given!
-Passable mode is ensured to not happen at the start of every game or transition. The chance of it activating increases as the current series of commands is being executed.
+Porta-Bop; V2.4; https://psyra-productions.itch.io/porta-bop;
+Updated sounds for sequence mode. Sounds will now play when a sequence command starts or ends.
+Fixed a bug that causes all command types to be spoken even on lower levels of the game.
+Using the built in computer voice for speaking commands is now faster! As a result, the commands needed to be loaded at every start of the game.
+Fixed the sound system error that causes the music to keep playing at a very low volume.
+Added variations on spoken commands.
+Fixed pause mode not working.
+Updated the sounds for trick commands and pause.
+Fixed an error in the list of features menu that causes word commands to appear twice.
+Added extra button sounds that play when a command is executed and while the spoken commands are loading.
