@@ -13,13 +13,7 @@ Updated car explosion sounds and made them better.
 Adjusted car gear shifting calculations. No matter what the top speed may be, the car will shift between 5 gears at increments of exactly 20 percent of top speed. At 100 percent of top speed, the gear is set to 5.
 Adjusted engine pitch calculation. The pitch will no longer get very high when the car speed is very high.
 &
-Porta-Bop; V2.4; https://psyra-productions.itch.io/porta-bop;
-Updated sounds for sequence mode. Sounds will now play when a sequence command starts or ends.
-Fixed a bug that causes all command types to be spoken even on lower levels of the game.
-Using the built in computer voice for speaking commands is now faster! As a result, the commands needed to be loaded at every start of the game.
-Fixed the sound system error that causes the music to keep playing at a very low volume.
-Added variations on spoken commands.
-Fixed pause mode not working.
-Updated the sounds for trick commands and pause.
-Fixed an error in the list of features menu that causes word commands to appear twice.
-Added extra button sounds that play when a command is executed and while the spoken commands are loading.
+Porta-Bop; V2.6; https://psyra-productions.itch.io/porta-bop;
+Improved the entire game system.
+Added the ability to toggle commands and features on or off. When there is only one command remaining, turning it off will not be allowed.
+Made the gameplay options menu better.
