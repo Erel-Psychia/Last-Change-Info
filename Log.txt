@@ -13,7 +13,11 @@ Updated car explosion sounds and made them better.
 Adjusted car gear shifting calculations. No matter what the top speed may be, the car will shift between 5 gears at increments of exactly 20 percent of top speed. At 100 percent of top speed, the gear is set to 5.
 Adjusted engine pitch calculation. The pitch will no longer get very high when the car speed is very high.
 &
-Porta-Bop; V2.6; https://psyra-productions.itch.io/porta-bop;
-Improved the entire game system.
-Added the ability to toggle commands and features on or off. When there is only one command remaining, turning it off will not be allowed.
-Made the gameplay options menu better.
+Porta-Bop; V2.7; https://psyra-productions.itch.io/porta-bop;
+Fixed an error where leveling up would cause commands and features to turn on outside of player's control.
+Ensured that the optional features do not turn on when leveling up.
+Attempted to fix some commands that are not working.
+Added warnings when turning off always enabled features.
+Improved the memory mode feature, allowing the user to take control of it.
+Updated the stats and scores menu to display the state of new features.
+Updated the commands and features menu to report the number of commands and features used.
