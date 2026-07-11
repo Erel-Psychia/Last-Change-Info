@@ -1,23 +1,5 @@
 The Tornado Chicken; V5.2; https://psyra-productions.itch.io/the-tornado-chicken;
 &
 Wheels of Prio; V6.0; https://psyra-productions.itch.io/wheels-of-prio;
-Improved the entire game system and made it better!
-A long awaited update has been made! The turn alert sound will now pan from left to center if you are near the left wall, or right to center if you are near the right wall.
-The testing ground is renamed to straight track. A new track has been added, and it is assigned the name testing ground. There are now 4 race tracks in total!
-Improved car healing sounds and made them more exciting!
-Added explosion warnings that will play while the explosion chance increases.
-Improved the explosion system and made it better.
-Added more sounds for floors, walls, car hits, and car crashes.
-Car track sections can now have their own floors and walls.
-Updated car explosion sounds and made them better.
-Adjusted car gear shifting calculations. No matter what the top speed may be, the car will shift between 5 gears at increments of exactly 20 percent of top speed. At 100 percent of top speed, the gear is set to 5.
-Adjusted engine pitch calculation. The pitch will no longer get very high when the car speed is very high.
 &
-Porta-Bop; V2.7; https://psyra-productions.itch.io/porta-bop;
-Fixed an error where leveling up would cause commands and features to turn on outside of player's control.
-Ensured that the optional features do not turn on when leveling up.
-Attempted to fix some commands that are not working.
-Added warnings when turning off always enabled features.
-Improved the memory mode feature, allowing the user to take control of it.
-Updated the stats and scores menu to display the state of new features.
-Updated the commands and features menu to report the number of commands and features used.
+Porta-Bop; V3.0; https://psyra-productions.itch.io/porta-bop;
