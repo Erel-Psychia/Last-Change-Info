@@ -2,4 +2,10 @@ The Tornado Chicken; V5.2; https://psyra-productions.itch.io/the-tornado-chicken
 &
 Wheels of Prio; V6.0; https://psyra-productions.itch.io/wheels-of-prio;
 &
-Porta-Bop; V3.0; https://psyra-productions.itch.io/porta-bop;
+Porta-Bop; V3.2; https://psyra-productions.itch.io/porta-bop;
+Reduced game size and ensured that the pause menu is removed, since it is not needed.
+Updated to the latest version of nvgt.
+Ensured that the learn game sounds option in the main menu is removed, since it is not needed.
+Moved used a screen reader while speaking to the speech settings menu.
+Added a new item in the speech settings menu called voice spelling rate. When using the computer voice, pressing shift plus space will use the spelling rate instead of the normal voice rate.
+
